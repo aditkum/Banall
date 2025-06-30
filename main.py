@@ -8,7 +8,7 @@ import sys, platform
 # import functie as S
 from asyncio import sleep
 from os import getenv
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from telethon import TelegramClient, events, Button
 import telethon.utils
 from telethon.tl import functions
